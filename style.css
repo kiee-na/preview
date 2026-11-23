@@ -219,3 +219,4 @@ body.has-hero header.site.over{top:33px}
 .logos li{background:var(--alt);border:1px solid var(--line);border-radius:8px;padding:12px 16px;font-weight:600;color:var(--navy)}
 
 .draftbar{font-size:0}.draftbar::before{content:"DRAFT \00B7  for committee review";font-size:14px}
+#m-hong{order:-2}#m-tkim{order:-1}
