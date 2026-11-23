@@ -220,3 +220,8 @@ body.has-hero header.site.over{top:33px}
 
 .draftbar{font-size:0}.draftbar::before{content:"DRAFT \00B7  for committee review";font-size:14px}
 #m-hong{order:-2}#m-tkim{order:-1}
+.home{display:inline-grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--alt);vertical-align:-4px;margin-left:4px;transition:background .15s}
+.home svg{width:16px;height:16px;fill:none;stroke:var(--blue);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.home:hover,.home:focus-visible{background:var(--accent)}
+.home:hover svg{stroke:var(--navy)}
+.person.hl .home{background:#fff}
