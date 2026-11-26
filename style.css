@@ -229,3 +229,6 @@ body.has-hero header.site.over{top:33px}
 @media (max-width:560px){.tiers.t2{grid-template-columns:1fr}}
 .sec.adv{padding:44px 0}
 .advisors{margin:0;font-size:18px;font-weight:600;color:var(--navy)}
+.web.upcoming{background:var(--alt);border:0;border-left:6px solid var(--accent);border-radius:10px;padding:28px 28px;margin-bottom:8px}
+.wmeta .tag{margin-bottom:8px}
+.wmeta .kst{display:block}
